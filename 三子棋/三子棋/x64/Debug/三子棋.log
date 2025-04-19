@@ -1,0 +1,5 @@
+﻿  game.cpp
+  test.cpp
+  正在生成代码...
+D:\project\三子棋\game.cpp(468,1): warning C4715: “Order”: 不是所有的控件路径都返回值
+  三子棋.vcxproj -> D:\project\三子棋\x64\Debug\三子棋.exe
